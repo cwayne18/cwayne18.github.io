@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Welcome"
+tags: featured
+date:   2021-02-07
+categories: welcome
+---
+# Welcome
+
+Welcome to my new blog/personal site!  While I hope this won't be yet another example of someone putting up a blog and forgetting about it, I guess we'll see!  I'll write here about a few main topics: my weight loss, my job (Ubuntu), running, and my nook (now for sale on Amazon!)
+
+# Introduction
+
+Let's start with a quick introduction about who I am, and what I do.  My name (as you could likely guess) is Chris Wayne, and I am currently the Engineering Manager for the Devices Certification Program at Canonical, the commercial sponsor of Ubuntu.  My team is responsible for the overall quality of all devices running Ubuntu (laptops, PCs, Raspberry Pis, etc etc).  I have worked at Canonical for twelve(!) years now, always in a Quality Assurance function.  I am obsessively passionate about Open Source software, and love to spend my time making sure it can and does work for everyone's potential needs.
+
+Outside of work, I'm an avid runner, husband to Christina, and dog-owner to Benny the goldendoodle.  Since 2012 I've losted a total of 170 pounds (a topic which will likely be covered heavily on this site), and have recently decided to write a book abouy my experience losing the weight.  For anybody interested, the book is available as a paperback or Kindle book [here](https://amazon.com/dp/B08T8HPCKC).  
