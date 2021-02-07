@@ -7,7 +7,7 @@ categories: welcome
 ---
 # Welcome
 
-Welcome to my new blog/personal site!  While I hope this won't be yet another example of someone putting up a blog and forgetting about it, I guess we'll see!  I'll write here about a few main topics: my weight loss, my job (Ubuntu), running, and my nook (now for sale on Amazon!)
+Welcome to my new blog/personal site!  While I hope this won't be yet another example of someone putting up a blog and forgetting about it, I guess we'll see!  I'll write here about a few main topics: my weight loss, my job (Ubuntu), running, and my book (now for sale on Amazon!)
 
 # Introduction
 
